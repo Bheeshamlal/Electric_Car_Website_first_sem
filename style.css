@@ -1,0 +1,97 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+  }
+  
+  nav a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  img {
+  border: 2px solid #ffffff;
+  transition: transform 0.2s ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.1);
+  border: 2px solid #cccccc;
+}
+img {
+  border: 2px solid #ffffff;
+  transition: transform 0.2s ease-in-out;
+  margin-right: 20px;
+}
+
+
+/* Apply a border and set the table width to 100% */
+nav table {
+  border: 8px solid #333;
+  width: 100%;
+}
+
+/* Remove default padding and margin from the table cells */
+nav td {
+  padding: 0;
+  margin: 0;
+}
+
+/* Style the links inside the table cells */
+nav a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+}
+
+/* Add a hover effect to the links */
+nav a:hover {
+  background-color: #fff;
+  color: #333;
+}
+
+
+
+
+body{
+    background-color: aliceblue;
+}
+a{
+    color: black;
+}
+li{
+    color: white;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+hr{
+    background-color: yellow;
+}
+i{
+    color: yellow;
+}
+
+.trc td{
+    
+    background-color:black;
+}
+.enquiryClass{
+    background-size: 100%;
+}
+.booklistClass{
+    background-size: 100%;
+}
+.cl a{
+    color: white;
+}
